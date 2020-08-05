@@ -1,5 +1,5 @@
 # Location App
-:globe_with_meridians: Aplicativo que visa capturar a localização em tempo real do usuário.
+:globe_with_meridians: Aplicativo que visa capturar a localização do usuário em tempo real.
 
 ## Comentários
 
