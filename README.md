@@ -1,16 +1,8 @@
-# locationapp
+# Location App
+:globe_with_meridians: Aplicativo que visa capturar a localização em tempo real do usuário.
 
-A new Flutter application.
+## Comentários
 
-## Getting Started
+Neste aplicativo utilizei o plugin "location", para pegar a localização atual do usuario através do sistema de gps do telefone. Isto foi implementado com objetivo de inserir a funcionalidade em um projeto maior, que necessitava saber onde o usuario estava em determinado momento. Aqui apenas para fins de teste eu mostrei a latitude e longitude atual do usuario em tela.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plugin 🔗 [Location](https://pub.dev/packages/location)
