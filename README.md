@@ -3,6 +3,6 @@
 
 ## Comentários
 
-Neste aplicativo utilizei o plugin "location", para pegar a localização atual do usuario através do sistema de gps do telefone. Isto foi implementado com objetivo de inserir a funcionalidade em um projeto maior, que necessitava saber onde o usuario estava em determinado momento. Apenas para fins de teste, eu mostrei a latitude e longitude atual do usuario em tela.
+Neste aplicativo utilizei o plugin "location", para pegar a localização atual do usuario através do sistema de gps do telefone. Isto foi implementado com objetivo de inserir a funcionalidade em um projeto maior, que necessitava saber onde o usuario estava em determinado momento. Apenas para fins de teste, eu mostrei a latitude e longitude atual do usuario em tela, conforme o mesmo se locomove os números referentes a localização são atualizados.
 
 Plugin 🔗 [Location](https://pub.dev/packages/location)
